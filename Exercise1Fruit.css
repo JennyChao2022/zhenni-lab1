@@ -1,0 +1,28 @@
+
+
+table{
+    margin: 150px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px;
+    text-align: center;
+    font-style:normal;
+    font-size: larger;
+    font-weight: bold;
+    border:3px solid black;   
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+    font-style:normal;
+    font-size: larger;
+    font-weight:100;
+    border:3px solid black;   
+}
+
+
+

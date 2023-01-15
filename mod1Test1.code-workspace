@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../naveed-code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "naveed-code"
+	}
+}

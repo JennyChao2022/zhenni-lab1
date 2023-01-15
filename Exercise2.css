@@ -1,0 +1,18 @@
+table{
+    margin: 150px auto;
+    border:3px solid black;
+    border-collapse: collapse;
+}
+
+td,th {
+    padding: 10px;
+    text-align: center;
+    font-style:normal;
+    font-size: larger;
+    font-weight:200;
+    border:3px solid black;   
+}
+
+.GreenBackground{
+    background-color: lightgreen;
+}
